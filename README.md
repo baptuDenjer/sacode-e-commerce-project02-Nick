@@ -1,2 +1,2 @@
-# sacode-e-commerce-tugas02-Nick
+# sacode-e-commerce-project02-Nick
 Introduction to CSS
